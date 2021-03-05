@@ -1,7 +1,8 @@
 #include <stdio.h>
+#include "modul.c"
 
 
-extern const double PI;
+extern const double PI;/*powinna być zmiana extern na static, ale funkcja nie działa*/
 extern const double E;
 
 

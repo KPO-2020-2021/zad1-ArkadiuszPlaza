@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 
-double Dodaj();
+double Dodaj(double,double);/*język cen nie przepisuje domyślnie ilości argumentów przez co nie rozpoznaje funkcji*/
 
 
 int main( )
